@@ -1,0 +1,22 @@
+{
+  "short_name": "WebAppStore",
+  "name": "WebAppStore - Playstore Alternative",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#e0e7ff",
+  "theme_color": "#4f8cff",
+  "description": "A professional web app/game store inspired by Playstore.",
+  "orientation": "portrait"
+}
